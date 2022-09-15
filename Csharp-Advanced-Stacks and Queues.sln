@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Reverse a String", "1. R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Stack Sum", "2. Stack Sum\2. Stack Sum.csproj", "{94A9174F-6642-4B9E-974C-0F896A3EE485}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matching Brackets", "4. Matching Brackets\4. Matching Brackets.csproj", "{1AA2C2F7-5E78-4EF8-A00B-E49EF4D5B004}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{94A9174F-6642-4B9E-974C-0F896A3EE485}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94A9174F-6642-4B9E-974C-0F896A3EE485}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94A9174F-6642-4B9E-974C-0F896A3EE485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA2C2F7-5E78-4EF8-A00B-E49EF4D5B004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA2C2F7-5E78-4EF8-A00B-E49EF4D5B004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA2C2F7-5E78-4EF8-A00B-E49EF4D5B004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA2C2F7-5E78-4EF8-A00B-E49EF4D5B004}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
