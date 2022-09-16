@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Simple Calculator", "3. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Print Even Numbers", "5. Print Even Numbers\5. Print Even Numbers.csproj", "{906FAB8F-E53B-4F9A-8FEF-D2F4688F44D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Supermarket", "6. Supermarket\6. Supermarket.csproj", "{24DEB57A-6781-4BC6-B682-76DB16B3EBFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{906FAB8F-E53B-4F9A-8FEF-D2F4688F44D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{906FAB8F-E53B-4F9A-8FEF-D2F4688F44D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{906FAB8F-E53B-4F9A-8FEF-D2F4688F44D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DEB57A-6781-4BC6-B682-76DB16B3EBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DEB57A-6781-4BC6-B682-76DB16B3EBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DEB57A-6781-4BC6-B682-76DB16B3EBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DEB57A-6781-4BC6-B682-76DB16B3EBFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
