@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Reverse a String", "1. Reverse a String\1. Reverse a String.csproj", "{CCF9EF8E-AE9B-4376-AE42-CC521AC31D7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Reverse a String", "1. Reverse a String\1. Reverse a String.csproj", "{CCF9EF8E-AE9B-4376-AE42-CC521AC31D7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Stack Sum", "2. Stack Sum\2. Stack Sum.csproj", "{94A9174F-6642-4B9E-974C-0F896A3EE485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Stack Sum", "2. Stack Sum\2. Stack Sum.csproj", "{94A9174F-6642-4B9E-974C-0F896A3EE485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matching Brackets", "4. Matching Brackets\4. Matching Brackets.csproj", "{1AA2C2F7-5E78-4EF8-A00B-E49EF4D5B004}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Matching Brackets", "4. Matching Brackets\4. Matching Brackets.csproj", "{1AA2C2F7-5E78-4EF8-A00B-E49EF4D5B004}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Hot Potato", "7. Hot Potato\7. Hot Potato.csproj", "{CBCA2106-69E2-43AD-9810-38FF4404EF44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Hot Potato", "7. Hot Potato\7. Hot Potato.csproj", "{CBCA2106-69E2-43AD-9810-38FF4404EF44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Traffic Jam", "8. Traffic Jam\8. Traffic Jam.csproj", "{50B5663A-DEA8-45BB-AF09-4794851C7BE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Traffic Jam", "8. Traffic Jam\8. Traffic Jam.csproj", "{50B5663A-DEA8-45BB-AF09-4794851C7BE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Simple Calculator", "3. Simple Calculator\3. Simple Calculator.csproj", "{DBA6D4D6-9A8A-4BDE-9C10-386DF2F29B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Simple Calculator", "3. Simple Calculator\3. Simple Calculator.csproj", "{DBA6D4D6-9A8A-4BDE-9C10-386DF2F29B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Print Even Numbers", "5. Print Even Numbers\5. Print Even Numbers.csproj", "{906FAB8F-E53B-4F9A-8FEF-D2F4688F44D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DBA6D4D6-9A8A-4BDE-9C10-386DF2F29B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBA6D4D6-9A8A-4BDE-9C10-386DF2F29B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBA6D4D6-9A8A-4BDE-9C10-386DF2F29B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906FAB8F-E53B-4F9A-8FEF-D2F4688F44D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906FAB8F-E53B-4F9A-8FEF-D2F4688F44D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906FAB8F-E53B-4F9A-8FEF-D2F4688F44D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906FAB8F-E53B-4F9A-8FEF-D2F4688F44D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
